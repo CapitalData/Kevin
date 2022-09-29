@@ -3,7 +3,7 @@ layout: post
 title: Kevin Martin
 ---
 
-Before working for, Austin Capital Data, Kevin was a consulting structural engineer. He has a bachelor’s and masters in civil engineering from the university of Washington. He spent 5 years in industry, getting his professional engineering license, and working on public infrastructure projects including work on the world’s longest floating bridge before going back for a Master’s in Information and Data Science at Berkeley.  
+Before working for, Austin Capital Data, Kevin was a consulting structural engineer. He has a bachelor’s and masters in civil engineering from the University of Washington. He spent 5 years in industry, getting his professional engineering license, and working on public infrastructure projects including work on the world’s longest floating bridge before going back for a Master’s in Information and Data Science at Berkeley.  
 
 -----
 
